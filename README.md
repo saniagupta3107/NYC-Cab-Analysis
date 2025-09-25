@@ -19,15 +19,6 @@ You can view and interact with the live Streamlit application here: \
     * Hourly trends in average fare prices.
 * **Interactive Web Application:** The entire project is deployed as a user-friendly web app with interactive controls.
 
-## 📸 Screenshots
-
-*(You can add screenshots of your running Streamlit app here. First, upload the screenshot to your GitHub repository, then get the link to it.)*
-
-**Main Dashboard:**
-![App Screenshot 1](URL_TO_YOUR_MAIN_PAGE_SCREENSHOT)
-
-**Detailed HDBSCAN Analysis:**
-![App Screenshot 2](URL_TO_YOUR_HDBSCAN_MAP_SCREENSHOT)
 
 ## 🛠️ Technology Stack
 
